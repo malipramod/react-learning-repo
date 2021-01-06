@@ -5,7 +5,7 @@
   "author": "Pramod Mali",
   "dependencies": {
     "autoprefixer": "9.4.4",
-    "axios": "^0.18.0",
+    "axios": "^0.21.1",
     "babel-core": "6.26.3",
     "babel-eslint": "10.0.1",
     "babel-jest": "23.6.0",
